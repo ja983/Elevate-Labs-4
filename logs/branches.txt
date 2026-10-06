@@ -1,0 +1,14 @@
+  dev
+  feature/conflict-a
+  feature/conflict-b
+  feature/deploy-script
+  feature/dockerfile
+  feature/docs
+* main
+  remotes/origin/dev
+  remotes/origin/feature/conflict-a
+  remotes/origin/feature/conflict-b
+  remotes/origin/feature/deploy-script
+  remotes/origin/feature/dockerfile
+  remotes/origin/feature/docs
+  remotes/origin/main

@@ -1,0 +1,20 @@
+*   e341687 (HEAD -> main, tag: v1.0.0, origin/main) Merge pull request #5 from ja983/feature/conflict-b
+|\  
+| * 4468a58 (origin/feature/conflict-b, feature/conflict-b) feat: add version B line
+* |   cced6e2 Merge pull request #4 from ja983/feature/docs
+|\ \  
+| * | 571a9d8 (origin/feature/docs, feature/docs) docs: add workflow documentation
+| |/  
+* |   483b843 Merge pull request #3 from ja983/feature/dockerfile
+|\ \  
+| * | 8560538 (origin/feature/dockerfile, feature/dockerfile) feat: add Dockerfile
+| |/  
+* | 79a4368 Merge pull request #2 from ja983/dev
+|\| 
+| | * 9296958 (origin/feature/conflict-a, feature/conflict-a) feat: add version A line
+| |/  
+| * 4ccd1a8 (origin/dev, dev) Merge pull request #1 from ja983/feature/deploy-script
+|/| 
+| * 502dfc4 (origin/feature/deploy-script, feature/deploy-script) feat: add basic deploy script
+|/  
+* b1697db chore: initial commit with README and .gitignore
