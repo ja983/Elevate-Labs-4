@@ -1,0 +1,11 @@
+# Logs and env
+*.log
+.env
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+# OS / editor
+.DS_Store
+.vscode/
+node_modules/
